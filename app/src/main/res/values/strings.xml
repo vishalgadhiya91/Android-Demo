@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WMT-Sync-Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sync">Sync</string>
+    <string name="dlg_msg_wait_while_loading">Please wait...</string>
+    <string name="toast_msg_something_is_wrong">Something is wrong, Please try again later</string>
+
+
+</resources>
